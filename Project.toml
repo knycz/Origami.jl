@@ -1,1 +1,2 @@
 name = "Origami"
+uuid = UUIDs.uuid4()
